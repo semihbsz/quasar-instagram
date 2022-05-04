@@ -1,0 +1,5 @@
+{
+  
+  "vetur.experimental.templateInterpolationService": true,
+  "splitHTMLAttributes.tabSize": 5
+}
